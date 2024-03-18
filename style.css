@@ -1,0 +1,16 @@
+h1{
+    margin: auto;
+    margin-left: 550px;
+
+}
+img{
+    height: 400px;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+#btn1{
+    justify-content: space-around;
+    width: 100px;
+    margin-left: 710px;
+    margin-top: 29px;
+}
